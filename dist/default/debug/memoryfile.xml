@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <project>                                  
-  <executable name="dist/default/debug/Xpress-Atmega4809.X.debug.elf">                 
+  <executable name="dist/default/debug/Xpress-atmega4809.debug.elf">                 
     <memory name="program">              
       <units>bytes</units>                 
       <length>49152</length>                 
-      <used>194</used>                     
-      <free>48958</free>                     
+      <used>190</used>                     
+      <free>48962</free>                     
     </memory>                              
     <memory name="data">                 
       <units>bytes</units>                 

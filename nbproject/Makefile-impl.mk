@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Xpress-Atmega4809.X
+PROJECTNAME=Xpress-atmega4809
 
 # Active Configuration
 DEFAULTCONF=default
